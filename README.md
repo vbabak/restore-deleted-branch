@@ -60,3 +60,5 @@ head:your_branch_name
 ```
 
 Open the pull request and press "Restore branch" button.
+
+Related article [about stale branches](https://medium.com/@vbabak/how-to-deal-with-stale-branches-on-the-github-b49727480872)
